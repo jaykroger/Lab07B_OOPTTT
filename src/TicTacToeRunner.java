@@ -6,7 +6,7 @@ public class TicTacToeRunner
     {
         TicTacToeBoard ticTacToe = new TicTacToeBoard();
 
-        ticTacToe.setTitle("Rock Paper Scissors");
+        ticTacToe.setTitle("Tic Tac Toe");
         ticTacToe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         ticTacToe.setSize(1080, 560);
         ticTacToe.setLocation(100, 80);
